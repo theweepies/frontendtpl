@@ -1,2 +1,4 @@
 # frontendtpl
-frontend template
+> style and js
+
+[preview](https://theweepies.github.io/frontendtpl/)
